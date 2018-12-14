@@ -6,13 +6,13 @@
   }
 
   .userinfo-avatar {
-    width: 80rpx;
-    height: 80rpx;
+    width: unit(80,rpx);
+    height: unit(80,rpx);
     border-radius: 50%;
   }
 
   .userinfo-nickname {
-    color: #aaa;
+    color: red;
   }
 </style>
 <template>
